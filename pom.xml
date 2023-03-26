@@ -10,13 +10,11 @@
     <version>3.1.0-SNAPSHOT</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-
   <groupId>ro.itschool</groupId>
-  <artifactId>Simple_Login_Project</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  <name>Simple_Login_Project</name>
-  <description>Login project without Spring security</description>
-
+  <artifactId>PlainLoginExample</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>login</name>
+  <description>Project for login</description>
   <properties>
     <java.version>19</java.version>
   </properties>
@@ -107,4 +105,5 @@
       </releases>
     </pluginRepository>
   </pluginRepositories>
+
 </project>
